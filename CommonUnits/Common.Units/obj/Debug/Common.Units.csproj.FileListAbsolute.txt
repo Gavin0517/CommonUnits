@@ -1,0 +1,6 @@
+E:\2016\Common.Units\CommonUnits\Common.Units\obj\Debug\Common.Units.csprojResolveAssemblyReference.cache
+E:\2016\Common.Units\CommonUnits\Common.Units\bin\Debug\Common.Units.dll
+E:\2016\Common.Units\CommonUnits\Common.Units\bin\Debug\Common.Units.pdb
+E:\2016\Common.Units\CommonUnits\Common.Units\bin\Debug\Newtonsoft.Json.dll
+E:\2016\Common.Units\CommonUnits\Common.Units\obj\Debug\Common.Units.dll
+E:\2016\Common.Units\CommonUnits\Common.Units\obj\Debug\Common.Units.pdb
